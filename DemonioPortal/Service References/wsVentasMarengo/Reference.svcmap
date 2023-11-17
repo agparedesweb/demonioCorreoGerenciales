@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d7160678-e627-496f-bc15-25c32c71b5ce" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://www.marengosite.com/WebService/Grower.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Grower.xsd" MetadataType="Schema" ID="f246a806-198b-4bbd-9654-88a1c69d15d3" SourceId="1" SourceUrl="http://www.marengosite.com/WebService/Grower.svc?xsd=xsd2" />
+    <MetadataFile FileName="Grower3.xsd" MetadataType="Schema" ID="3822a5ec-1736-42d1-9779-fac1b517c4f9" SourceId="1" SourceUrl="http://www.marengosite.com/WebService/Grower.svc?xsd=xsd3" />
+    <MetadataFile FileName="Grower1.xsd" MetadataType="Schema" ID="04fed3b2-5a05-4adb-8741-eac26ec3e9ba" SourceId="1" SourceUrl="http://www.marengosite.com/WebService/Grower.svc?xsd=xsd0" />
+    <MetadataFile FileName="Grower2.xsd" MetadataType="Schema" ID="438f8a20-6f4f-422a-af20-2b6d95bb556b" SourceId="1" SourceUrl="http://www.marengosite.com/WebService/Grower.svc?xsd=xsd1" />
+    <MetadataFile FileName="Grower.wsdl" MetadataType="Wsdl" ID="dde9e9e9-c5ed-4f90-b3fd-51aaf0651542" SourceId="1" SourceUrl="http://www.marengosite.com/WebService/Grower.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,56 @@
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\IntegraFacturacion.exe
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\IntegraFacturacion.pdb
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\IntegraFacturacion.xml
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\Comunes.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\ImpresionReportes.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\BarcodeLib.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\SharpZipLib.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\Comunes.pdb
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\Comunes.xml
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Release\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.FrmM1505001.resources
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.FrmEmpresas.resources
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.frmPrincipal.resources
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.Resources.resources
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.exe
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.xml
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.pdb
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Core.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Data.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Deployment.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\System.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Drawing.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Xml.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\IntegraFacturacion.exe
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\IntegraFacturacion.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\IntegraFacturacion.xml
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\System.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\BarcodeLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Release\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Release\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.FrmM1505001.resources
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.FrmEmpresas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.frmPrincipal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.exe
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.xml
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Release\IntegraFacturacion.pdb

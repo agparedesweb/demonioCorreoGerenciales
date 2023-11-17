@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DemonioCorreosGerenciales
+</name>
+</assembly>
+<members>
+<member name="T:IntegraFacturacion.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:IntegraFacturacion.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:IntegraFacturacion.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.Service">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.#ctor">
+<remarks/>
+</member>
+<member name="E:IntegraFacturacion.net.optimaproduce.webservices.Service.GetSalesCompleted">
+<remarks/>
+</member>
+<member name="E:IntegraFacturacion.net.optimaproduce.webservices.Service.GetAdjustementsCompleted">
+<remarks/>
+</member>
+<member name="E:IntegraFacturacion.net.optimaproduce.webservices.Service.GetInventoryActivityCompleted">
+<remarks/>
+</member>
+<member name="E:IntegraFacturacion.net.optimaproduce.webservices.Service.GetTodayInvoicesCompleted">
+<remarks/>
+</member>
+<member name="E:IntegraFacturacion.net.optimaproduce.webservices.Service.GetGeneralExpensesCompleted">
+<remarks/>
+</member>
+<member name="E:IntegraFacturacion.net.optimaproduce.webservices.Service.GetLotExpensesCompleted">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetSales(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetSalesAsync(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetSalesAsync(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetAdjustements(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetAdjustementsAsync(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetAdjustementsAsync(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetInventoryActivity(System.Int32,System.Int32,System.DateTime,System.Int32,System.Int32,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetInventoryActivityAsync(System.Int32,System.Int32,System.DateTime,System.Int32,System.Int32,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetInventoryActivityAsync(System.Int32,System.Int32,System.DateTime,System.Int32,System.Int32,System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetTodayInvoices(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.DateTime,System.Int32)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetTodayInvoicesAsync(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.DateTime,System.Int32)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetTodayInvoicesAsync(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.DateTime,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetGeneralExpenses(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetGeneralExpensesAsync(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetGeneralExpensesAsync(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetLotExpenses(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetLotExpensesAsync(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.GetLotExpensesAsync(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:IntegraFacturacion.net.optimaproduce.webservices.Service.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetSalesCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetSalesCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:IntegraFacturacion.net.optimaproduce.webservices.GetSalesCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetAdjustementsCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetAdjustementsCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:IntegraFacturacion.net.optimaproduce.webservices.GetAdjustementsCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetInventoryActivityCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetInventoryActivityCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:IntegraFacturacion.net.optimaproduce.webservices.GetInventoryActivityCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetTodayInvoicesCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetTodayInvoicesCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:IntegraFacturacion.net.optimaproduce.webservices.GetTodayInvoicesCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetGeneralExpensesCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetGeneralExpensesCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:IntegraFacturacion.net.optimaproduce.webservices.GetGeneralExpensesCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetLotExpensesCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:IntegraFacturacion.net.optimaproduce.webservices.GetLotExpensesCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:IntegraFacturacion.net.optimaproduce.webservices.GetLotExpensesCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

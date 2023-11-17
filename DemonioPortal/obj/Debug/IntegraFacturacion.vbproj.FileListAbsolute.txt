@@ -1,0 +1,77 @@
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\IntegraFacturacion.exe
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\IntegraFacturacion.pdb
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\IntegraFacturacion.xml
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\ChilkatDotNet2.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\ControlesUsuario.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\Criptografo.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\BarcodeLib.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.FrmEmpresas.resources
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.Resources.resources
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.exe
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.xml
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.pdb
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\FarPoint.Win.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.exe
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.xml
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\IntegraFacturacion.exe
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\IntegraFacturacion.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\IntegraFacturacion.xml
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\ChilkatDotNet2.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\ControlesUsuario.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\Criptografo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\FarPoint.Win.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\BarcodeLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.FrmEmpresas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\obj\Debug\IntegraFacturacion.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\smtpop.dll
+C:\ENRIQUE\PRY\Proyectos .NET\IntegraFacturacion\IntegraFacturacion\bin\Debug\OpenPop.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\IntegraFacturacion\obj\Debug\IntegraFacturacion.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\IntegraFacturacion\obj\Debug\IntegraFacturacion.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\IntegraFacturacion\obj\Debug\IntegraFacturacion.pdb

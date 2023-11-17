@@ -1,0 +1,378 @@
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\ControlesUsuario.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\Criptografo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\FarPoint.Win.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\System.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\BarcodeLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\obj\Debug\IntegraFacturacion.FrmEmpresas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\obj\Debug\IntegraFacturacion.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\obj\Debug\DemonioPortal.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\DemonioPortal.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\DemonioPortal.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\bin\Debug\DemonioPortal.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\obj\Debug\DemonioPortal.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\obj\Debug\DemonioPortal.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\DemonioPortal\obj\Debug\DemonioPortal.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML - copia\DemonioPortal\obj\Debug\DemonioPortal.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML - copia\DemonioPortal\obj\Debug\DemonioPortal.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML - copia\DemonioPortal\obj\Debug\DemonioPortal.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.exe.config
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\ControlesUsuario.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Criptografo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\FarPoint.Win.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\BarcodeLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.FrmEmpresas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioPortal.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioInventariosDist.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioInventariosDist.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioInventariosDist.pdb
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.exe.config
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioInventariosDist.xml
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioInventariosDist.pdb
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.exe
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.pdb
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.xml
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\AccessForms.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Comunes.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\ControlesUsuario.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Criptografo.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DataAccess.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\FarPoint.Win.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\IniFileController.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Core.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Data.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Deployment.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Drawing.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Windows.Forms.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Xml.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Xml.Linq.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\ImpresionReportes.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\BarcodeLib.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\SharpZipLib.dll
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Comunes.pdb
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Comunes.xml
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.FrmEmpresas.resources
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.Resources.resources
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioPortal.vbproj.GenerateResource.Cache
+C:\Users\Edwin\Desktop\prueba repositorio\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioInventariosDist.exe
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.exe.config
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioInventariosDist.exe
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioInventariosDist.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioInventariosDist.pdb
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.exe
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.pdb
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DemonioInventariosDist.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\AccessForms.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Comunes.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\ControlesUsuario.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Criptografo.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DataAccess.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\FarPoint.Win.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\IniFileController.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Core.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Data.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Deployment.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Drawing.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Windows.Forms.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Xml.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\System.Xml.Linq.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\ImpresionReportes.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\FarPoint.Excel.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\SharpZipLib.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\FarPoint.Win.Spread.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\BarcodeLib.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\FarPoint.CalcEngine.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Comunes.pdb
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\Comunes.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\FarPoint.Excel.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\bin\Debug\FarPoint.CalcEngine.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.FrmEmpresas.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\IntegraFacturacion.Resources.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\DemonioPortal\obj\Debug\DemonioPortal.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.exe.config
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\ControlesUsuario.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Criptografo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\FarPoint.Win.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\BarcodeLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.FrmEmpresas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioPortal.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.exe
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\OpenPop.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.exe.config
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.exe
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.pdb
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.exe
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.pdb
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\AccessForms.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Comunes.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\ControlesUsuario.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Criptografo.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DataAccess.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\FarPoint.Win.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\IniFileController.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\OpenPop.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Core.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Data.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Deployment.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Drawing.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Windows.Forms.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Xml.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Xml.Linq.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\ImpresionReportes.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\FarPoint.Excel.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\SharpZipLib.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\FarPoint.Win.Spread.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\BarcodeLib.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\FarPoint.CalcEngine.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Comunes.pdb
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Comunes.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\FarPoint.Excel.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\FarPoint.CalcEngine.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.FrmEmpresas.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.Resources.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioPortal.vbproj.GenerateResource.Cache
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.exe.config
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.xml
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.pdb
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.exe
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.pdb
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.xml
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\AccessForms.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Comunes.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\ControlesUsuario.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Criptografo.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DataAccess.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\FarPoint.Win.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\IniFileController.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\OpenPop.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Core.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Data.DataSetExtensions.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Data.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Deployment.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Drawing.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Windows.Forms.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Xml.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\System.Xml.Linq.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\ImpresionReportes.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\SharpZipLib.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\AccTextboxAdvanced.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\BarcodeLib.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Comunes.pdb
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\bin\Debug\Comunes.xml
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.FrmEmpresas.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.Resources.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioPortal.vbproj.GenerateResource.Cache
+C:\REPOSITORIO\Demonio Correos Gerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.exe
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.exe.config
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.xml
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.pdb
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.exe
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.pdb
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DemonioInventariosDist.xml
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\AccessForms.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Comunes.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\ControlesUsuario.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Criptografo.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DataAccess.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\FarPoint.Win.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\IniFileController.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\OpenPop.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Core.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Data.DataSetExtensions.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Data.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Deployment.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Drawing.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Windows.Forms.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Xml.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Xml.Linq.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\ImpresionReportes.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\FarPoint.Excel.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\SharpZipLib.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\AccTextboxAdvanced.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\FarPoint.Win.Spread.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\BarcodeLib.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\FarPoint.CalcEngine.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Comunes.pdb
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Comunes.xml
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\FarPoint.Excel.xml
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\FarPoint.CalcEngine.xml
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.FrmEmpresas.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.Resources.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioPortal.vbproj.GenerateResource.Cache
+C:\REPOSITORIOS\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioInventariosDist.exe
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DemonioCorreosGerenciales.exe.config
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DemonioCorreosGerenciales.exe
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DemonioCorreosGerenciales.pdb
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DemonioCorreosGerenciales.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\AccessForms.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Comunes.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\ControlesUsuario.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Criptografo.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DataAccess.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\FarPoint.Win.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\IniFileController.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\NuGet.Frameworks.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\OpenPop.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Data.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Deployment.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Drawing.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Windows.Forms.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Xml.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Xml.Linq.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\SharpZipLib.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\ImpresionReportes.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\AccTextboxAdvanced.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\FarPoint.Win.Spread.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\BarcodeLib.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DevExpress.XtraEditors.v6.3.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DevExpress.XtraBars.v6.3.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DevExpress.Data.v6.3.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\office.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\FarPoint.CalcEngine.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\FarPoint.Excel.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\stdole.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Comunes.pdb
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Comunes.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Comunes.dll.config
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\CrystalDecisions.ReportSource.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\CrystalDecisions.Shared.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\CrystalDecisions.Windows.Forms.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DevExpress.XtraBars.v6.3.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\DevExpress.Data.v6.3.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\office.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioPortal.vbproj.AssemblyReference.cache
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.FrmM1505001.resources
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.frmPrincipal.resources
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\IntegraFacturacion.Resources.resources
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioPortal.vbproj.GenerateResource.cache
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioPortal.vbproj.CoreCompileInputs.cache
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioPortal.vbproj.CopyComplete
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioCorreosGerenciales.exe
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioCorreosGerenciales.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\obj\Debug\DemonioCorreosGerenciales.pdb
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\RestSharp.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\RestSharp.xml
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorio\DemonioCorreosGerenciales\DemonioPortal\bin\Debug\Newtonsoft.Json.xml

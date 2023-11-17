@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://marengosite.com" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://marengosite.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://marengosite.com">
+      <s:element name="InOuts">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GrowerCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="DateShip" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InOutsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InOutsResult" type="tns:ArrayOfGrowerInOuts" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfGrowerInOuts">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="GrowerInOuts" nillable="true" type="tns:GrowerInOuts" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="GrowerInOuts">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Grower" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Branch" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CommodityName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PackStyle" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Label" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Size" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UoM" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Inventory" nillable="true" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Ins" nillable="true" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Outs" nillable="true" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Inventory">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GrowerCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InventoryResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InventoryResult" type="tns:ArrayOfGrowerInventory" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfGrowerInventory">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="GrowerInventory" nillable="true" type="tns:GrowerInventory" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="GrowerInventory">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Grower" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CommodityName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PackStyle" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Label" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Size" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UoM" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Inventory" nillable="true" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SalesByDate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GrowerCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Date" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SalesByDateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SalesByDateResult" type="tns:ArrayOfSalesByDate" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfSalesByDate">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="SalesByDate" nillable="true" type="tns:SalesByDate" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SalesByDate">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Grower" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Customer" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CommodityName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PackStyle" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Label" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Size" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UoM" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Qty" nillable="true" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="Gross" nillable="true" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Adj" nillable="true" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="Net" nillable="true" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="UnitPrice" nillable="true" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="ShipDate" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="SalesType" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="InOutsSoapIn">
+    <wsdl:part name="parameters" element="tns:InOuts" />
+  </wsdl:message>
+  <wsdl:message name="InOutsSoapOut">
+    <wsdl:part name="parameters" element="tns:InOutsResponse" />
+  </wsdl:message>
+  <wsdl:message name="InventorySoapIn">
+    <wsdl:part name="parameters" element="tns:Inventory" />
+  </wsdl:message>
+  <wsdl:message name="InventorySoapOut">
+    <wsdl:part name="parameters" element="tns:InventoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="SalesByDateSoapIn">
+    <wsdl:part name="parameters" element="tns:SalesByDate" />
+  </wsdl:message>
+  <wsdl:message name="SalesByDateSoapOut">
+    <wsdl:part name="parameters" element="tns:SalesByDateResponse" />
+  </wsdl:message>
+  <wsdl:portType name="GrowerServiceSoap">
+    <wsdl:operation name="InOuts">
+      <wsdl:input message="tns:InOutsSoapIn" />
+      <wsdl:output message="tns:InOutsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Inventory">
+      <wsdl:input message="tns:InventorySoapIn" />
+      <wsdl:output message="tns:InventorySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SalesByDate">
+      <wsdl:input message="tns:SalesByDateSoapIn" />
+      <wsdl:output message="tns:SalesByDateSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="GrowerServiceSoap" type="tns:GrowerServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InOuts">
+      <soap:operation soapAction="http://marengosite.com/InOuts" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Inventory">
+      <soap:operation soapAction="http://marengosite.com/Inventory" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SalesByDate">
+      <soap:operation soapAction="http://marengosite.com/SalesByDate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="GrowerServiceSoap12" type="tns:GrowerServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InOuts">
+      <soap12:operation soapAction="http://marengosite.com/InOuts" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Inventory">
+      <soap12:operation soapAction="http://marengosite.com/Inventory" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SalesByDate">
+      <soap12:operation soapAction="http://marengosite.com/SalesByDate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="GrowerService">
+    <wsdl:port name="GrowerServiceSoap" binding="tns:GrowerServiceSoap">
+      <soap:address location="https://www.marengosite.com/marengowebservices/growerservice.asmx" />
+    </wsdl:port>
+    <wsdl:port name="GrowerServiceSoap12" binding="tns:GrowerServiceSoap12">
+      <soap12:address location="https://www.marengosite.com/marengowebservices/growerservice.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

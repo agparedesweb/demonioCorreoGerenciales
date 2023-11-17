@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/IdentityLibrary.ProducePRO.Reports.GrowerWebService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/IdentityLibrary.ProducePRO.Reports.GrowerWebService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://www.marengosite.com/WebServicesV2/Grower.svc?xsd=xsd2" namespace="MFC.WebService" />
+  <xs:complexType name="ArrayOfTransactionV2">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TransactionV2" nillable="true" type="tns:TransactionV2" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTransactionV2" nillable="true" type="tns:ArrayOfTransactionV2" />
+  <xs:complexType name="TransactionV2">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="MFC.WebService" base="q1:Transaction">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Unreceived" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TransactionV2" nillable="true" type="tns:TransactionV2" />
+  <xs:complexType name="ArrayOfTransactionV3">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TransactionV3" nillable="true" type="tns:TransactionV3" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTransactionV3" nillable="true" type="tns:ArrayOfTransactionV3" />
+  <xs:complexType name="TransactionV3">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:TransactionV2">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Lot_No" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Pallet_Ids" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TransactionV3" nillable="true" type="tns:TransactionV3" />
+  <xs:complexType name="ArrayOfNetSalesV2">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="NetSalesV2" nillable="true" type="tns:NetSalesV2" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfNetSalesV2" nillable="true" type="tns:ArrayOfNetSalesV2" />
+  <xs:complexType name="NetSalesV2">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="MFC.WebService" base="q2:NetSales">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Lot_No" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Pallet_Ids" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Reference" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="NetSalesV2" nillable="true" type="tns:NetSalesV2" />
+</xs:schema>

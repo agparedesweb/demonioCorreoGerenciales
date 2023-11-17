@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="52e6233e-0a8e-47c3-82d8-97bfaab8af2b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://www.marengosite.com/WebServicesV2/Grower.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Grower.xsd" MetadataType="Schema" ID="d3e3fe2f-6c84-4051-8dcd-f082c87ab624" SourceId="1" SourceUrl="http://www.marengosite.com/WebServicesV2/Grower.svc?xsd=xsd2" />
+    <MetadataFile FileName="Grower.wsdl" MetadataType="Wsdl" ID="0bfdfe75-a265-4907-8f60-944eaed47736" SourceId="1" SourceUrl="http://www.marengosite.com/WebServicesV2/Grower.svc?wsdl" />
+    <MetadataFile FileName="Grower1.xsd" MetadataType="Schema" ID="50c0b2f3-88ba-44b2-b1a4-00f638896a62" SourceId="1" SourceUrl="http://www.marengosite.com/WebServicesV2/Grower.svc?xsd=xsd0" />
+    <MetadataFile FileName="Grower2.xsd" MetadataType="Schema" ID="910880bd-b5e2-45f9-9e25-03ee6a8a6d0d" SourceId="1" SourceUrl="http://www.marengosite.com/WebServicesV2/Grower.svc?xsd=xsd1" />
+    <MetadataFile FileName="Grower3.xsd" MetadataType="Schema" ID="dd585241-a6ca-4b17-b2bb-629826f8a374" SourceId="1" SourceUrl="http://www.marengosite.com/WebServicesV2/Grower.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

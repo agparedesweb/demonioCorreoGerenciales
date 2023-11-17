@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://www.marengosite.com/WebServicesV2/Grower.svc?xsd=xsd2" namespace="MFC.WebService" />
+  <xs:import schemaLocation="http://www.marengosite.com/WebServicesV2/Grower.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/IdentityLibrary.ProducePRO.Reports.GrowerWebService" />
+  <xs:element name="GetDeals">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="user" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetDealsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="MFC.WebService" minOccurs="0" name="GetDealsResult" nillable="true" type="q1:ArrayOfGrowerDeal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetNetSales">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="user" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="dealNumber" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="dateFrom" nillable="true" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="dateTo" nillable="true" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="groupBy" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetNetSalesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="MFC.WebService" minOccurs="0" name="GetNetSalesResult" nillable="true" type="q2:ArrayOfNetSales" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetGrowerTransactions">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="user" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="dealNumber" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="dateTo" type="xs:dateTime" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetGrowerTransactionsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/IdentityLibrary.ProducePRO.Reports.GrowerWebService" minOccurs="0" name="GetGrowerTransactionsResult" nillable="true" type="q3:ArrayOfTransactionV2" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetGrowerTransactionsV3">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="user" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="dealNumber" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="dateTo" type="xs:dateTime" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetGrowerTransactionsV3Response">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/IdentityLibrary.ProducePRO.Reports.GrowerWebService" minOccurs="0" name="GetGrowerTransactionsV3Result" nillable="true" type="q4:ArrayOfTransactionV3" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetNetSalesV2">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="user" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="dealNumber" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="dateFrom" nillable="true" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="dateTo" nillable="true" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="groupBy" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetNetSalesV2Response">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/IdentityLibrary.ProducePRO.Reports.GrowerWebService" minOccurs="0" name="GetNetSalesV2Result" nillable="true" type="q5:ArrayOfNetSalesV2" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

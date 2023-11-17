@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetSales">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OptimaCompanyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="companyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="yearID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="batchID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="packerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="growerID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSalesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetSalesResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAdjustements">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OptimaCompanyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="companyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="packerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="growerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="batchID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAdjustementsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAdjustementsResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetInventoryActivity">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OptimaCompanyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="companyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="LdDate" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="packerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="growerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="LabelID" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="Language" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetInventoryActivityResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetInventoryActivityResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTodayInvoices">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OptimaCompanyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="companyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="yearID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="packerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="growerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="InvoiceDate" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="ContractFilter" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTodayInvoicesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetTodayInvoicesResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetGeneralExpenses">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OptimaCompanyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="companyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="yearID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="packerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="growerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="batchID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="expenseID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetGeneralExpensesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetGeneralExpensesResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetLotExpenses">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="OptimaCompanyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="companyID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="yearID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="packerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="growerID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="batchID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="expenseID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetLotExpensesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetLotExpensesResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetSalesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSales" />
+  </wsdl:message>
+  <wsdl:message name="GetSalesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSalesResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAdjustementsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAdjustements" />
+  </wsdl:message>
+  <wsdl:message name="GetAdjustementsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAdjustementsResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetInventoryActivitySoapIn">
+    <wsdl:part name="parameters" element="tns:GetInventoryActivity" />
+  </wsdl:message>
+  <wsdl:message name="GetInventoryActivitySoapOut">
+    <wsdl:part name="parameters" element="tns:GetInventoryActivityResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetTodayInvoicesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTodayInvoices" />
+  </wsdl:message>
+  <wsdl:message name="GetTodayInvoicesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTodayInvoicesResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetGeneralExpensesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetGeneralExpenses" />
+  </wsdl:message>
+  <wsdl:message name="GetGeneralExpensesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetGeneralExpensesResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetLotExpensesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetLotExpenses" />
+  </wsdl:message>
+  <wsdl:message name="GetLotExpensesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetLotExpensesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="GetSales">
+      <wsdl:input message="tns:GetSalesSoapIn" />
+      <wsdl:output message="tns:GetSalesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAdjustements">
+      <wsdl:input message="tns:GetAdjustementsSoapIn" />
+      <wsdl:output message="tns:GetAdjustementsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetInventoryActivity">
+      <wsdl:input message="tns:GetInventoryActivitySoapIn" />
+      <wsdl:output message="tns:GetInventoryActivitySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTodayInvoices">
+      <wsdl:input message="tns:GetTodayInvoicesSoapIn" />
+      <wsdl:output message="tns:GetTodayInvoicesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetGeneralExpenses">
+      <wsdl:input message="tns:GetGeneralExpensesSoapIn" />
+      <wsdl:output message="tns:GetGeneralExpensesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetLotExpenses">
+      <wsdl:input message="tns:GetLotExpensesSoapIn" />
+      <wsdl:output message="tns:GetLotExpensesSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetSales">
+      <soap:operation soapAction="http://tempuri.org/GetSales" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAdjustements">
+      <soap:operation soapAction="http://tempuri.org/GetAdjustements" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInventoryActivity">
+      <soap:operation soapAction="http://tempuri.org/GetInventoryActivity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTodayInvoices">
+      <soap:operation soapAction="http://tempuri.org/GetTodayInvoices" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetGeneralExpenses">
+      <soap:operation soapAction="http://tempuri.org/GetGeneralExpenses" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLotExpenses">
+      <soap:operation soapAction="http://tempuri.org/GetLotExpenses" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetSales">
+      <soap12:operation soapAction="http://tempuri.org/GetSales" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAdjustements">
+      <soap12:operation soapAction="http://tempuri.org/GetAdjustements" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInventoryActivity">
+      <soap12:operation soapAction="http://tempuri.org/GetInventoryActivity" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTodayInvoices">
+      <soap12:operation soapAction="http://tempuri.org/GetTodayInvoices" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetGeneralExpenses">
+      <soap12:operation soapAction="http://tempuri.org/GetGeneralExpenses" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLotExpenses">
+      <soap12:operation soapAction="http://tempuri.org/GetLotExpenses" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://webservices.optimaproduce.net/GrowerService/service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://webservices.optimaproduce.net/GrowerService/service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

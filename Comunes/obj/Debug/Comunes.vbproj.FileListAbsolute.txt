@@ -1,0 +1,558 @@
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\Comunes.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\Comunes.pdb
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\Comunes.xml
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\AccessForms.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\ImpresionReportes.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\IniFileController.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\MetaCatalogo.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\SharpZipLib.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\AccTextboxAdvanced.pdb
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\AccTextboxAdvanced.xml
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Comunes.dll
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Comunes.xml
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Comunes.pdb
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\obj\Debug\Sistema.Resources.resources
+C:\Users\Enrique\Documents\Visual Studio 2008\Projects\FactElect\Comunes\bin\Debug\DataAccess.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\Comunes.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\Comunes.pdb
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\Comunes.xml
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\AccessForms.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\AccTextboxAdvanced.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\DataAccess.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\ImpresionReportes.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\IniFileController.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\MetaCatalogo.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\SharpZipLib.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\ResolveAssemblyReference.cache
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.ClsFecha.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.RangoFechas.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Sistema.Resources.resources
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Comunes.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Comunes.xml
+E:\ENRIQUE\PRY\FactElect\Comunes\obj\Debug\Comunes.pdb
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.Excel.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.Win.Spread.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Core.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Data.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Deployment.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Drawing.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Windows.Forms.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Xml.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\System.Xml.Linq.dll
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.Win.Spread.xml
+E:\ENRIQUE\PRY\FactElect\Comunes\bin\Debug\FarPoint.Excel.xml
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.pdb
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.xml
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\AccessForms.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\AccTextboxAdvanced.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\DataAccess.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\ImpresionReportes.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\IniFileController.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\MetaCatalogo.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\SharpZipLib.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Core.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Data.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Deployment.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Drawing.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Windows.Forms.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Xml.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Xml.Linq.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.xml
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\ResolveAssemblyReference.cache
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsFecha.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.RangoFechas.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.Resources.resources
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.dll
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.xml
+E:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\MetaCatalogo.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Sistema.Resources.resources
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.xml
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\ENRIQUE\PRY\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\IniFileController.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\MetaCatalogo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\DriverXtraGrid.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\Comunes.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\Comunes.pdb
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\Comunes.xml
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\AccessForms.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\AccTextboxAdvanced.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\DataAccess.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\DriverXtraGrid.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\ImpresionReportes.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\IniFileController.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\MetaCatalogo.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\SharpZipLib.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Core.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Data.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Deployment.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Drawing.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Windows.Forms.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Xml.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\System.Xml.Linq.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.xml
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\ResolveAssemblyReference.cache
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsFecha.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.RangoFechas.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Sistema.Resources.resources
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.dll
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.xml
+E:\ENRIQUE CORRAL\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\ENRIQUE\PRY\Proyectos .NET\FactElect Paredes\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\DriverXtraGrid.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\MetaCatalogo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Sistema.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Portal XML\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\DriverXtraGrid.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\MetaCatalogo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Comunes.pdb
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\Comunes.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\Comunes.pdb
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\Comunes.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\AccessForms.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\DataAccess.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\FarPoint.Win.Spread.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\ImpresionReportes.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\MetaCatalogo.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\SharpZipLib.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Core.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Data.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Deployment.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Drawing.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Xml.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\office.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Sistema.Resources.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Comunes.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Comunes.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Existencias Distribuidoras\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\AccessForms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\DataAccess.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\DriverXtraGrid.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\ImpresionReportes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\MetaCatalogo.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\SharpZipLib.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Core.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Data.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Deployment.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Drawing.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Xml.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.Resources.resources
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.xml
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.pdb
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\office.dll
+C:\ENRIQUE\PRY\Proyectos .NET\Demonio Correos Gerenciales\Comunes\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\Comunes.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\Comunes.pdb
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\Comunes.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\AccessForms.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\DataAccess.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.Win.Spread.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\ImpresionReportes.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\MetaCatalogo.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\SharpZipLib.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Core.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Data.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Deployment.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Drawing.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Xml.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\office.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.Resources.resources
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.dll
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.xml
+C:\Users\Edwin\Desktop\Proyectos .net\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.pdb
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\Comunes.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\Comunes.pdb
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\Comunes.xml
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\AccessForms.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\DataAccess.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\ImpresionReportes.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\MetaCatalogo.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\SharpZipLib.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Core.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Data.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Deployment.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Drawing.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Xml.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\office.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Sistema.Resources.resources
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.dll
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.xml
+C:\REPOSITORIO\Demonio Correos Gerenciales\Comunes\obj\Debug\Comunes.pdb
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\Comunes.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\Comunes.pdb
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\Comunes.xml
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\AccessForms.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\DataAccess.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\FarPoint.Win.Spread.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\ImpresionReportes.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\MetaCatalogo.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\SharpZipLib.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Core.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Data.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Deployment.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Drawing.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Xml.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\office.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\FarPoint.CalcEngine.xml
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\bin\Debug\FarPoint.Excel.xml
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\ResolveAssemblyReference.cache
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.Resources.resources
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.Cache
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.dll
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.xml
+C:\REPOSITORIOS\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.pdb
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\Comunes.dll.config
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\Comunes.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\Comunes.pdb
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\Comunes.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\AccessForms.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\AccTextboxAdvanced.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\CrystalDecisions.Shared.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\DataAccess.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\DevExpress.Utils.v6.3.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\DevExpress.XtraEditors.v6.3.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\DevExpress.XtraGrid.v6.3.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\FarPoint.CalcEngine.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\FarPoint.Excel.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\FarPoint.Win.Spread.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\ImpresionReportes.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\MetaCatalogo.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\SharpZipLib.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Data.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Deployment.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Drawing.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Windows.Forms.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Xml.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Xml.Linq.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\DevExpress.XtraBars.v6.3.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\DevExpress.Data.v6.3.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\office.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\stdole.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\CrystalDecisions.Shared.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\CrystalDecisions.Windows.Forms.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\DevExpress.Utils.v6.3.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\DevExpress.XtraBars.v6.3.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\CrystalDecisions.ReportSource.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\DevExpress.Data.v6.3.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\bin\Debug\office.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.vbproj.AssemblyReference.cache
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.Comunes.Comun.frmStatus.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.ClsBooleano.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.ClsFecha.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.ClsMultiple.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.ClsSencilla.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.FrmCamposCalculados.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.frmCamposCalculados_1.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.FrmGuardaReporte.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.FrmVisorCrystal.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.RangoFechas.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Sistema.Resources.resources
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.vbproj.GenerateResource.cache
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.vbproj.CoreCompileInputs.cache
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.vbproj.CopyComplete
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.dll
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.xml
+C:\Repositorio\DemonioCorreosGerenciales\Comunes\obj\Debug\Comunes.pdb

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="MFC.WebService" elementFormDefault="qualified" targetNamespace="MFC.WebService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfGrowerDeal">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="GrowerDeal" nillable="true" type="tns:GrowerDeal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfGrowerDeal" nillable="true" type="tns:ArrayOfGrowerDeal" />
+  <xs:complexType name="GrowerDeal">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DealNumber" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Vendor" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VendorCode" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="GrowerDeal" nillable="true" type="tns:GrowerDeal" />
+  <xs:complexType name="ArrayOfNetSales">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="NetSales" nillable="true" type="tns:NetSales" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfNetSales" nillable="true" type="tns:ArrayOfNetSales" />
+  <xs:complexType name="NetSales">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Commodity" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Container" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DealNumber" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Grade" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NetSales" type="xs:decimal" />
+      <xs:element minOccurs="0" name="Packaging" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PostDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Product" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Qty" type="xs:int" />
+      <xs:element minOccurs="0" name="Size" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TotalAdjustments" type="xs:int" />
+      <xs:element minOccurs="0" name="Variety" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Vendor" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="NetSales" nillable="true" type="tns:NetSales" />
+  <xs:complexType name="Transaction">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Branch" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Commodity" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cont_Code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Container" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="End_Of_Day" type="xs:int" />
+      <xs:element minOccurs="0" name="Floor" type="xs:int" />
+      <xs:element minOccurs="0" name="Grade" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Grade_Code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Pack" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Pack2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Packaging" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Product" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Received" type="xs:int" />
+      <xs:element minOccurs="0" name="Repack" type="xs:int" />
+      <xs:element minOccurs="0" name="Shipped" type="xs:int" />
+      <xs:element minOccurs="0" name="Size" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Size_Code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Unpack" type="xs:int" />
+      <xs:element minOccurs="0" name="Var" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Variety" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Vendor_Product_Code" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Transaction" nillable="true" type="tns:Transaction" />
+</xs:schema>
